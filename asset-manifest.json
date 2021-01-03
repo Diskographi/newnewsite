@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Diskographi/newnewsite/static/css/main.0b3a0dc0.chunk.css",
-    "main.js": "/Diskographi/newnewsite/static/js/main.2b9b543c.chunk.js",
-    "main.js.map": "/Diskographi/newnewsite/static/js/main.2b9b543c.chunk.js.map",
+    "main.js": "/Diskographi/newnewsite/static/js/main.546b8efb.chunk.js",
+    "main.js.map": "/Diskographi/newnewsite/static/js/main.546b8efb.chunk.js.map",
     "runtime-main.js": "/Diskographi/newnewsite/static/js/runtime-main.6bb14a72.js",
     "runtime-main.js.map": "/Diskographi/newnewsite/static/js/runtime-main.6bb14a72.js.map",
     "static/css/2.c6501959.chunk.css": "/Diskographi/newnewsite/static/css/2.c6501959.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.c6501959.chunk.css",
     "static/js/2.c7900f92.chunk.js",
     "static/css/main.0b3a0dc0.chunk.css",
-    "static/js/main.2b9b543c.chunk.js"
+    "static/js/main.546b8efb.chunk.js"
   ]
 }
